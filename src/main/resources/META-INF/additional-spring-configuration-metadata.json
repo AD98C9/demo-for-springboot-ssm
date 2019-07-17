@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "novel-system.datasource.jdbc-url",
+    "type": "java.lang.String",
+    "description": "A description for 'novel-system.datasource.jdbc-url'"
+  },
+  {
+    "name": "novel-system.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'novel-system.datasource.username'"
+  },
+  {
+    "name": "novel-system.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'novel-system.datasource.password'"
+  },
+  {
+    "name": "novel-system.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'novel-system.datasource.driver-class-name'"
+  },
+  {
+    "name": "library.datasource.jdbc-url",
+    "type": "java.lang.String",
+    "description": "A description for 'library.datasource.jdbc-url'"
+  },
+  {
+    "name": "library.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'library.datasource.username'"
+  },
+  {
+    "name": "library.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'library.datasource.password'"
+  },
+  {
+    "name": "library.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'library.datasource.driver-class-name'"
+  }
+]}
